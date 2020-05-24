@@ -137,4 +137,4 @@ disp_accuracy.write('<pre>\n---------------------------------------------\n')
 disp_accuracy.write(this_layer)
 disp_accuracy.write('\nAccuracy achieved : ' + str(scores[1])+'\n</pre>')
 disp_accuracy.close()
-
+#
