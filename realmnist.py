@@ -60,8 +60,5 @@ while accuracy < .90 :
    
 
 
-# In[ ]:
-
-
 
 
